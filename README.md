@@ -14,7 +14,11 @@ The data in this model comes from the Planetary Habitability Laboratory’s expa
 
 ## Results
 After running our Decision Tree model on the cleaned dataset, we could obtain a predicted set of values from the test split which showed a 99% accuracy at the output.
-![Confusion Matrix] (Confusion_Matrix.png)
 
+![Confusion_Matrix](https://user-images.githubusercontent.com/44059133/69912830-d3b6c380-1454-11ea-8e94-9eab4ce252c5.png)
+###### **__Figure 1: Confusion Matrix__**
+
+![AUC](https://user-images.githubusercontent.com/44059133/69912835-de715880-1454-11ea-9dd8-46c005023208.png)
+###### **__Figure 2: Area-Under-Curve__**
 ## Analysis
-After careful analysis of the predicted values outputted from the model, we were in a position to make a few deductions regarding the dataset. 
+After careful analysis of the predicted values outputted from the model, we were in a position to make a few deductions regarding the dataset. Our decision tree allowed us to acheive a near perfect accuracy of classification of exoplanets.
