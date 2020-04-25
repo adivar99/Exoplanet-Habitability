@@ -21,4 +21,4 @@ After running our Decision Tree model on the cleaned dataset, we could obtain a 
 ![AUC](https://user-images.githubusercontent.com/44059133/69912835-de715880-1454-11ea-9dd8-46c005023208.png)
 ###### **__Figure 2: Area-Under-Curve__**
 ## Analysis
-After careful analysis of the predicted values outputted from the model, we were in a position to make a few deductions regarding the dataset. Our decision tree allowed us to acheive a near perfect accuracy of classification of exoplanets.
+After careful analysis of the predicted values outputted from the model, we were in a position to make a few deductions regarding the dataset. Our decision tree allowed us to acheive a highly accurate classification of exoplanets.
